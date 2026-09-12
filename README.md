@@ -21,8 +21,8 @@ Build strong Python fundamentals, problem-solving skills, and practical projects
 
 | Area | Status |
 |---|---|
-| Python Basics | 🟢 In Progress |
-| Control Flow | 🟢 In Progress |
+| Python Basics | 🟢 Day 1 Started |
+| Control Flow | 🔵 Next |
 | Data Structures | 🔵 Next |
 | Functions | 🔵 Next |
 | File Handling | 🔵 Next |
@@ -30,12 +30,19 @@ Build strong Python fundamentals, problem-solving skills, and practical projects
 | APIs & JSON | 🔵 Next |
 | Projects | 🔵 Next |
 
+## 📂 Day 1 Files
+
+- `01-basics/variables.py`
+- `01-basics/data_types.py`
+- `01-basics/operators.py`
+- `01-basics/input_output.py`
+
 ## 💡 Learning Philosophy
 
 ```text
 Learn → Practice → Build → Document → Improve
 ```
 
-More projects and exercises will be added as I progress.
+More exercises and projects will be added as I progress.
 
 — **Anoop Vishvakarma**
