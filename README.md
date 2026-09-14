@@ -23,7 +23,7 @@ Build strong Python fundamentals, problem-solving skills, and practical projects
 |---|---|
 | Python Basics | 🟢 Day 1 Started |
 | Control Flow | 🟢 Day 2 Completed |
-| Data Structures | 🔵 Next |
+| Data Structures | 🟢 Day 3 Completed |
 | Functions | 🔵 Next |
 | File Handling | 🔵 Next |
 | OOP | 🔵 Next |
@@ -46,6 +46,15 @@ Build strong Python fundamentals, problem-solving skills, and practical projects
 - `02-control-flow/range.py`
 - `02-control-flow/break_continue.py`
 
+## 📂 Day 3 Files
+
+- `03-data-structures/strings.py`
+- `03-data-structures/lists.py`
+- `03-data-structures/tuples.py`
+- `03-data-structures/sets.py`
+- `03-data-structures/dictionaries.py`
+- `03-data-structures/practice.py`
+
 ## 💡 Learning Philosophy
 
 ```text
@@ -54,4 +63,4 @@ Learn → Practice → Build → Document → Improve
 
 More exercises and projects will be added as I progress.
 
-— **Anoop Vishwakarma**
+— **Anoop Vishvakarma**
