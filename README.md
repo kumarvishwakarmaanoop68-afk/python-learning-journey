@@ -11,7 +11,7 @@ Build strong Python fundamentals, problem-solving skills, and practical projects
 - **01 Basics** — Variables, data types, operators, input/output
 - **02 Control Flow** — Conditions, for loops, while loops
 - **03 Data Structures** — Strings, lists, tuples, sets, dictionaries
-- **04 Functions** — Functions, arguments, return values, lambda, advanced functions
+- **04 Functions** — Functions, arguments, return values, lambda, scope
 - **05 File Handling** — Text files, CSV, exceptions
 - **06 OOP** — Classes, objects, constructors, inheritance, polymorphism
 - **07 APIs & JSON** — APIs, requests, JSON
@@ -24,7 +24,7 @@ Build strong Python fundamentals, problem-solving skills, and practical projects
 | Python Basics | 🟢 Day 1 Started |
 | Control Flow | 🟢 Day 2 Completed |
 | Data Structures | 🟢 Day 3 Completed |
-| Functions | 🔵 Next |
+| Functions | 🟢 Day 4 Completed |
 | File Handling | 🔵 Next |
 | OOP | 🔵 Next |
 | APIs & JSON | 🔵 Next |
@@ -54,6 +54,16 @@ Build strong Python fundamentals, problem-solving skills, and practical projects
 - `03-data-structures/sets.py`
 - `03-data-structures/dictionaries.py`
 - `03-data-structures/practice.py`
+
+## 📂 Day 4 Files
+
+- `04-functions/basic_functions.py`
+- `04-functions/arguments.py`
+- `04-functions/return_values.py`
+- `04-functions/default_keyword_args.py`
+- `04-functions/lambda.py`
+- `04-functions/scope.py`
+- `04-functions/practice.py`
 
 ## 💡 Learning Philosophy
 
