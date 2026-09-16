@@ -25,7 +25,7 @@ Build strong Python fundamentals, problem-solving skills, and practical projects
 | Control Flow | 🟢 Day 2 Completed |
 | Data Structures | 🟢 Day 3 Completed |
 | Functions | 🟢 Day 4 Completed |
-| File Handling | 🔵 Next |
+| File Handling | 🟢 Day 5 Completed |
 | OOP | 🔵 Next |
 | APIs & JSON | 🔵 Next |
 | Projects | 🔵 Next |
@@ -64,6 +64,14 @@ Build strong Python fundamentals, problem-solving skills, and practical projects
 - `04-functions/lambda.py`
 - `04-functions/scope.py`
 - `04-functions/practice.py`
+
+## 📂 Day 5 Files
+
+- `05-file-handling/file_write_read.py`
+- `05-file-handling/file_modes.py`
+- `05-file-handling/csv_handling.py`
+- `05-file-handling/exceptions.py`
+- `05-file-handling/practice.py`
 
 ## 💡 Learning Philosophy
 
