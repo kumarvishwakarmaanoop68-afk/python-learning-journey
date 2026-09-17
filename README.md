@@ -13,7 +13,7 @@ Build strong Python fundamentals, problem-solving skills, and practical projects
 - **03 Data Structures** — Strings, lists, tuples, sets, dictionaries
 - **04 Functions** — Functions, arguments, return values, lambda, scope
 - **05 File Handling** — Text files, CSV, exceptions
-- **06 OOP** — Classes, objects, constructors, inheritance, polymorphism
+- **06 OOP** — Classes, objects, constructors, inheritance, polymorphism, encapsulation
 - **07 APIs & JSON** — APIs, requests, JSON
 - **Projects** — Practical projects built during the journey
 
@@ -26,52 +26,19 @@ Build strong Python fundamentals, problem-solving skills, and practical projects
 | Data Structures | 🟢 Day 3 Completed |
 | Functions | 🟢 Day 4 Completed |
 | File Handling | 🟢 Day 5 Completed |
-| OOP | 🔵 Next |
+| OOP | 🟢 Day 6 Completed |
 | APIs & JSON | 🔵 Next |
 | Projects | 🔵 Next |
 
-## 📂 Day 1 Files
+## 📂 Day 6 Files
 
-- `01-basics/variables.py`
-- `01-basics/data_types.py`
-- `01-basics/operators.py`
-- `01-basics/input_output.py`
-
-## 📂 Day 2 Files
-
-- `02-control-flow/if_else.py`
-- `02-control-flow/comparison_logical.py`
-- `02-control-flow/for_loop.py`
-- `02-control-flow/while_loop.py`
-- `02-control-flow/range.py`
-- `02-control-flow/break_continue.py`
-
-## 📂 Day 3 Files
-
-- `03-data-structures/strings.py`
-- `03-data-structures/lists.py`
-- `03-data-structures/tuples.py`
-- `03-data-structures/sets.py`
-- `03-data-structures/dictionaries.py`
-- `03-data-structures/practice.py`
-
-## 📂 Day 4 Files
-
-- `04-functions/basic_functions.py`
-- `04-functions/arguments.py`
-- `04-functions/return_values.py`
-- `04-functions/default_keyword_args.py`
-- `04-functions/lambda.py`
-- `04-functions/scope.py`
-- `04-functions/practice.py`
-
-## 📂 Day 5 Files
-
-- `05-file-handling/file_write_read.py`
-- `05-file-handling/file_modes.py`
-- `05-file-handling/csv_handling.py`
-- `05-file-handling/exceptions.py`
-- `05-file-handling/practice.py`
+- `06-oop/classes_objects.py`
+- `06-oop/constructor.py`
+- `06-oop/instance_methods.py`
+- `06-oop/inheritance.py`
+- `06-oop/polymorphism.py`
+- `06-oop/encapsulation.py`
+- `06-oop/practice.py`
 
 ## 💡 Learning Philosophy
 
