@@ -27,18 +27,17 @@ Build strong Python fundamentals, problem-solving skills, and practical projects
 | Functions | 🟢 Day 4 Completed |
 | File Handling | 🟢 Day 5 Completed |
 | OOP | 🟢 Day 6 Completed |
-| APIs & JSON | 🔵 Next |
+| APIs & JSON | 🟢 Day 7 Completed |
 | Projects | 🔵 Next |
 
-## 📂 Day 6 Files
+## 📂 Day 7 Files
 
-- `06-oop/classes_objects.py`
-- `06-oop/constructor.py`
-- `06-oop/instance_methods.py`
-- `06-oop/inheritance.py`
-- `06-oop/polymorphism.py`
-- `06-oop/encapsulation.py`
-- `06-oop/practice.py`
+- `07-apis-json/json_basics.py`
+- `07-apis-json/http_methods.py`
+- `07-apis-json/get_request.py`
+- `07-apis-json/post_request.py`
+- `07-apis-json/api_error_handling.py`
+- `07-apis-json/practice.py`
 
 ## 💡 Learning Philosophy
 
