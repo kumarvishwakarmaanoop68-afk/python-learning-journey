@@ -15,7 +15,8 @@ Build strong Python fundamentals, problem-solving skills, and practical projects
 - **05 File Handling** — Text files, CSV, exceptions
 - **06 OOP** — Classes, objects, constructors, inheritance, polymorphism, encapsulation
 - **07 APIs & JSON** — APIs, requests, JSON
-- **Projects** — Practical projects built during the journey
+- **08 Mini Project** — Student Management System
+- **Projects** — More practical projects
 
 ## 📈 Progress
 
@@ -28,16 +29,16 @@ Build strong Python fundamentals, problem-solving skills, and practical projects
 | File Handling | 🟢 Day 5 Completed |
 | OOP | 🟢 Day 6 Completed |
 | APIs & JSON | 🟢 Day 7 Completed |
-| Projects | 🔵 Next |
+| Mini Project | 🟢 Day 8 Completed |
+| More Projects | 🔵 Next |
 
-## 📂 Day 7 Files
+## 📂 Day 8 Project
 
-- `07-apis-json/json_basics.py`
-- `07-apis-json/http_methods.py`
-- `07-apis-json/get_request.py`
-- `07-apis-json/post_request.py`
-- `07-apis-json/api_error_handling.py`
-- `07-apis-json/practice.py`
+### Student Management System
+
+- `08-projects/README.md`
+- `08-projects/student_management.py`
+- `08-projects/students.json`
 
 ## 💡 Learning Philosophy
 
