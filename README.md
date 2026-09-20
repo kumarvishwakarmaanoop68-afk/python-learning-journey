@@ -16,6 +16,7 @@ Build strong Python fundamentals, problem-solving skills, and practical projects
 - **06 OOP** — Classes, objects, constructors, inheritance, polymorphism, encapsulation
 - **07 APIs & JSON** — APIs, requests, JSON
 - **08 Mini Project** — Student Management System
+- **09 Expense Tracker** — Income, expenses, categories, JSON persistence
 - **Projects** — More practical projects
 
 ## 📈 Progress
@@ -30,6 +31,7 @@ Build strong Python fundamentals, problem-solving skills, and practical projects
 | OOP | 🟢 Day 6 Completed |
 | APIs & JSON | 🟢 Day 7 Completed |
 | Mini Project | 🟢 Day 8 Completed |
+| Expense Tracker | 🟢 Day 9 Completed |
 | More Projects | 🔵 Next |
 
 ## 📂 Day 8 Project
@@ -49,3 +51,11 @@ Learn → Practice → Build → Document → Improve
 More exercises and projects will be added as I progress.
 
 — **Anoop Vishvakarma**
+
+## 📂 Day 9 Project
+
+### Expense Tracker
+
+- `09-expense-tracker/README.md`
+- `09-expense-tracker/expense_tracker.py`
+- `09-expense-tracker/transactions.json`
