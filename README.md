@@ -17,6 +17,7 @@ Build strong Python fundamentals, problem-solving skills, and practical projects
 - **07 APIs & JSON** — APIs, requests, JSON
 - **08 Mini Project** — Student Management System
 - **09 Expense Tracker** — Income, expenses, categories, JSON persistence
+- **10 API Project** — API Data Explorer with OOP, requests, and JSON
 - **Projects** — More practical projects
 
 ## 📈 Progress
@@ -32,6 +33,7 @@ Build strong Python fundamentals, problem-solving skills, and practical projects
 | APIs & JSON | 🟢 Day 7 Completed |
 | Mini Project | 🟢 Day 8 Completed |
 | Expense Tracker | 🟢 Day 9 Completed |
+| API Data Explorer | 🟢 Day 10 Completed |
 | More Projects | 🔵 Next |
 
 ## 📂 Day 8 Project
@@ -42,6 +44,22 @@ Build strong Python fundamentals, problem-solving skills, and practical projects
 - `08-projects/student_management.py`
 - `08-projects/students.json`
 
+## 📂 Day 9 Project
+
+### Expense Tracker
+
+- `09-expense-tracker/README.md`
+- `09-expense-tracker/expense_tracker.py`
+- `09-expense-tracker/transactions.json`
+
+## 📂 Day 10 Project
+
+### API Data Explorer
+
+- `10-api-project/README.md`
+- `10-api-project/api_explorer.py`
+- `10-api-project/saved_posts.json`
+
 ## 💡 Learning Philosophy
 
 ```text
@@ -51,11 +69,3 @@ Learn → Practice → Build → Document → Improve
 More exercises and projects will be added as I progress.
 
 — **Anoop Vishvakarma**
-
-## 📂 Day 9 Project
-
-### Expense Tracker
-
-- `09-expense-tracker/README.md`
-- `09-expense-tracker/expense_tracker.py`
-- `09-expense-tracker/transactions.json`
