@@ -18,6 +18,7 @@ Build strong Python fundamentals, problem-solving skills, and practical projects
 - **08 Mini Project** — Student Management System
 - **09 Expense Tracker** — Income, expenses, categories, JSON persistence
 - **10 API Project** — API Data Explorer with OOP, requests, and JSON
+- **11 Weather API** — Geocoding, weather data, API error handling, JSON
 - **Projects** — More practical projects
 
 ## 📈 Progress
@@ -34,6 +35,7 @@ Build strong Python fundamentals, problem-solving skills, and practical projects
 | Mini Project | 🟢 Day 8 Completed |
 | Expense Tracker | 🟢 Day 9 Completed |
 | API Data Explorer | 🟢 Day 10 Completed |
+| Weather API | 🟢 Day 11 Completed |
 | More Projects | 🔵 Next |
 
 ## 📂 Day 8 Project
@@ -59,6 +61,14 @@ Build strong Python fundamentals, problem-solving skills, and practical projects
 - `10-api-project/README.md`
 - `10-api-project/api_explorer.py`
 - `10-api-project/saved_posts.json`
+
+## 📂 Day 11 Project
+
+### Weather API App
+
+- `11-weather-api/README.md`
+- `11-weather-api/weather_app.py`
+- `11-weather-api/latest_weather.json`
 
 ## 💡 Learning Philosophy
 
